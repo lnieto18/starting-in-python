@@ -16,3 +16,21 @@ linea N
 print cads
 print cadd
 print cadc
+
+#Reparticion y concatenacion
+cad = "Cadena 1"
+cad2 = " Cadena 2"
+cadc = cad + cad2
+
+print cadc
+
+bT = True
+bF = False
+
+bAnd = True and False
+bOr = True or False
+bNot = not True
+
+print bAnd
+print bOr
+print bNot
