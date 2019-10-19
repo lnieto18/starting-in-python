@@ -4,3 +4,4 @@ d = {
 }
 
 print d["Clave1"][1]
+print d
